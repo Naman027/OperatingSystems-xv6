@@ -7,7 +7,7 @@
 
 ## Built With
 
-<li> Xv6 Operating Systems <li>
+<li> Xv6 Operating Systems </li>
 
 ## Prerequisites
 1. System Calls ( obviously abt Operting Systems )
